@@ -35,7 +35,7 @@ Although most of the code can be found in this repo, I highly recommend download
 ## How ??? (Using magic)
 
 - I had to use another dependency: [Litarvan's OpenAuth](https://github.com/Litarvan/OpenAuth) (thanks a lot to him) to solve the authentication problem, and I modified some classes (a bit) to better fit the launcher code.
-- I rewrote a bit the launcher's code to remove some parts of useless code (but not all).
+- I rewrote a bit the launcher's code to remove some parts of useless code (but not all) and change API call and some stuff.
 - I spend a lot of time on it.
 
 ## What changed ?
