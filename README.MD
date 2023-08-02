@@ -22,7 +22,7 @@ There are two important files:
 - The MinecraftLauncher.exe/.jar (this is the bootstrap that checks for updates and starts the launcher);
 - The launcher.lzma (the compressed launcher, you don't really need to download it because the bootstrap does it automatically).
 
-Although most of the code can be found in this repo, I highly recommend downloading the [**latest version of the launcher**](https://github.com/SkyVerseMc/LegacyMinecraftLauncher/releases/latest), because all dependencies are not published here, as their code is not mine:
+Although most of the code can be found in this repo, I highly recommend downloading the [**latest version of the launcher**](https://github.com/SkyVerseMc/Legacy-Minecraft-Launcher/releases/latest), because all dependencies are not published here, as their code is not mine:
 
 - com.google.common
 - com.google.gson
