@@ -12,11 +12,9 @@ As Minecraft Wiki said:
 Today, this launcher is obsolete, you simply can't use it because of 2 main problems:
 - The Microsoft authentication system (Mojang's Authlib is now deprecated);
 - The new Minecraft version API (assets, libraries, natives...) has changed;
-
 However, existing accounts will still be able to launch old versions, because their token is already saved and does not require to authenticate again.
 
 It seems easy to fix, but it's really more complex (plus the launcher code wasn't really optimised...).
-
 So I modded this launcher and now it works fine.
 
 ## How to install
@@ -44,9 +42,11 @@ Although most of the code can be found in this repo, I highly recommend download
 Go to the end, [TODO section](#todo)
 
 ## Disclaimer
-I've resurrected the old launcher with some modifications and optimised certain parts, but not all of it, which means that there may be crashes and so on. Don't hesitate to let me know if you have any problems with the launcher. I plan to optimize it further as time goes on. Also, don't cry when you read the code, 99% was made by the Mojang team.
+- I've resurrected the old launcher with some modifications and optimised certain parts, but not all of it, which means that there may be crashes and so on. Don't hesitate to let me know if you have any problems with the launcher. I plan to optimize it further as time goes on.
+- Don't cry when you read the code, 90% of it was made by Mojang.
+- For some reasons (= idk) textures can be glitched on latest versions.
 
-And if the launcher shows you this crash report:
+- If you have this crash report:
 ```
 Exception in thread "main" java.lang.ClassCastException: class jdk.internal.loader.ClassLoaders$AppClassLoader cannot be cast to class java.net.URLClassLoader (jdk.internal.loader.ClassLoaders$AppClassLoader and java.net.URLClassLoader are in module java.base of loader 'bootstrap')
 at net.minecraft.launchwrapper.Launch.<init>(Launch.java:24)
