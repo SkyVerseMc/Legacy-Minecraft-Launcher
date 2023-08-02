@@ -46,7 +46,7 @@ Go to the end, [TODO section](#todo)
 ## Disclaimer
 I've resurrected the old launcher with some modifications and optimised certain parts, but not all of it, which means that there may be crashes and so on. Don't hesitate to let me know if you have any problems with the launcher. I plan to optimize it further as time goes on. Also, don't cry when you read the code, 99% was made by the Mojang team.
 
-And if you have this crash report:
+And if the launcher shows you this crash report:
 ```
 Exception in thread "main" java.lang.ClassCastException: class jdk.internal.loader.ClassLoaders$AppClassLoader cannot be cast to class java.net.URLClassLoader (jdk.internal.loader.ClassLoaders$AppClassLoader and java.net.URLClassLoader are in module java.base of loader 'bootstrap')
 at net.minecraft.launchwrapper.Launch.<init>(Launch.java:24)
