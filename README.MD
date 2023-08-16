@@ -1,6 +1,6 @@
 # Legacy Minecraft Launcher
 
-![Downloads](https://img.shields.io/github/downloads/SkyVerseMc/Legacy-Minecraft-Launcher/total.svg)
+![Downloads](https://img.shields.io/github/downloads/SkyVerseMc/Legacy-Minecraft-Launcher/total?label=Downloads&color=%2300B900)
 
 ![screenshot](https://github.com/SkyVerseMc/Legacy-Minecraft-Launcher/assets/95189671/66d7c439-5e25-469c-9ce9-3b6441ec8bb8)
 
