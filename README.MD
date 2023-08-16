@@ -66,6 +66,5 @@ You can simply fix that by using java 8 instead, by changing the java path in pr
 - [x] Change default JVM arguments to make them up to date
 - [x] Add "Releases", "Modded versions" and "Installed versions" filter in profile popup's version selector
 - [x] Add "Latest Snapshot" version in profile popup's version selector
-- [x] Change Launcher News' URL to this repo's mcupdate.html
 - [x] SquidHQ option
 - [ ] Add mods support (fabric, etc...), but you can launch versions that does not need external libraries
