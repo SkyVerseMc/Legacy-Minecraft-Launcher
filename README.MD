@@ -3,6 +3,7 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" height="50" width="50"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50" width="50"/>
 </h1></p>
+
 ![Downloads](https://img.shields.io/github/downloads/SkyVerseMc/Legacy-Minecraft-Launcher/total?label=Downloads&color=%2300B900)
 
 ![screenshot](https://github.com/SkyVerseMc/Legacy-Minecraft-Launcher/assets/95189671/66d7c439-5e25-469c-9ce9-3b6441ec8bb8)
