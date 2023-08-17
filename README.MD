@@ -1,8 +1,7 @@
-<p align="center">
-<h1>Legacy Minecraft Launcherㅤㅤㅤ
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" height="50" width="50"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50" width="50"/>
-</h1></p>
+<h1>Legacy Minecraft Launcher
+<img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50" width="50"/>
+<img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" height="50" width="50"/>
+</h1>
 
 ![Downloads](https://img.shields.io/github/downloads/SkyVerseMc/Legacy-Minecraft-Launcher/total?label=Downloads&color=%2300B900)
 
