@@ -6,7 +6,7 @@
 ![Downloads](https://img.shields.io/github/downloads/SkyVerseMc/Legacy-Minecraft-Launcher/total?label=Downloads&color=%2300B900)
 
 
-![screenshot](https://github.com/SkyVerseMc/Legacy-Minecraft-Launcher/assets/95189671/66d7c439-5e25-469c-9ce9-3b6441ec8bb8)
+![screenshot](https://github.com/SkyVerseMc/Legacy-Minecraft-Launcher/assets/95189671/1a0c565f-6691-4626-a4b0-59721cdb116e)
 
 Do you remember the good old Minecraft Launcher that was used from the beginning of Minecraft until the Microsoft Account Migration?
 Its last version was [1.6.93](https://minecraft.fandom.com/wiki/Launcher_1.6.93  "Launcher 1.6.93") and was released on 12 September 2019.
