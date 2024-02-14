@@ -3,7 +3,9 @@
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" height="50" width="50"/>
 </h1>
 
-![Downloads](https://img.shields.io/github/downloads/SkyVerseMc/Legacy-Minecraft-Launcher/total?label=Downloads&color=%2300B900)
+[![Downloads](https://img.shields.io/github/downloads/SkyVerseMc/Legacy-Minecraft-Launcher/total?label=Downloads&color=%2300B900)](https://github.com/SkyVerseMc/Legacy-Minecraft-Launcher/releases/latest)
+
+![info](https://upload.wikimedia.org/wikipedia/commons/e/ec/OOjs_UI_icon_information-progressive.svg) I plan to rewrite the launcher soon in order to optimize it for the latest versions of Minecraft while removing unnecessary or obsolete parts of the code. The UI is not supposed to change.
 
 
 ![screenshot](https://github.com/SkyVerseMc/Legacy-Minecraft-Launcher/assets/95189671/1a0c565f-6691-4626-a4b0-59721cdb116e)
