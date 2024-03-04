@@ -26,6 +26,8 @@ It seems easy to fix, but it's really more complex (plus the launcher code wasn'
 So I modded this launcher and now it works fine.
 
 ## How to install
+- The JDK 20 or higher is needed
+
 There are two important files:
 - The MinecraftLauncher.exe/.jar (this is the bootstrap that checks for updates and starts the launcher);
 - The launcher.lzma (the compressed launcher, you don't really need to download it because the bootstrap does it automatically).
